@@ -3,7 +3,7 @@
 # InstagramUI
 
 
-Instgram profile UI using jetpack compose layout
+Instgram profile Page using jetpack compose layout
 
 
 <img src="images/insta_UI.png" height="500"  />
