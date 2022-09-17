@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InstagramUI</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="profile_image">\" profile Image\"</string>
+</resources>
